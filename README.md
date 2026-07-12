@@ -1,9 +1,33 @@
-I used ChatGPT to assist with:
 
-Generating initial RecyclerView adapter templates.
-Troubleshooting Retrofit, Hilt, and Navigation issues.
-Refining the MVVM architecture and ViewBinding implementation.
-Debugging runtime and Gradle errors.
-Improving code organization and reducing boilerplate.
+## Architecture
+- MVVM
+- Repository Pattern
+- Hilt
+- Retrofit
+- Navigation Component
 
-All generated code was reviewed, integrated, and modified as needed. I manually implemented, tested, and debugged the application to ensure it met the assignment requirements.
+## Libraries
+- Retrofit
+- Gson
+- Glide
+- Hilt
+- RecyclerView
+- ViewBinding
+
+## Features
+- Home Screen
+- Categories
+- Courses
+- Course Details
+- Lesson Player
+- Video Playback
+
+## AI Usage
+I used ChatGPT to:
+- Debug Retrofit/Hilt issues
+- Generate RecyclerView adapters
+- Assist with MVVM architecture
+- Resolve Gradle and runtime errors
+- Improve code structure
+
+All generated code was reviewed, integrated, tested, and modified where necessary.
